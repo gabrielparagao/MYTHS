@@ -1,7 +1,7 @@
 .container {
   max-width: 960px;
 }body { 
-  background: url("../Images/Final/Ai153.jpg") no-repeat center center fixed; 
+  background: url("../Images/Photos/Pic24.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -30,7 +30,7 @@
  * Dummy devices (replace them with your own or something else entirely!)
  */
 
-.product-device {background: url("../Images/Final/Ai150.jpg") no-repeat center center fixed; 
+.product-device {background: url("../Images/Photos/Pic25.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
